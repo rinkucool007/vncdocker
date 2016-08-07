@@ -1,9 +1,9 @@
 # This Dockerfile is used to build an sakuli image based on Ubuntu
 
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
-MAINTAINER Tobias Schneck "tobias.schneck@consol.de"
-ENV REFRESHED_AT 2016-06-01
+MAINTAINER Stevebeer "stefan@vdeweb.com"
+ENV REFRESHED_AT 2016-08-07
 
 ENV JAVA_VERSION 8u92
 ENV JAVA_HOME /usr/lib/jvm/java-$JAVA_VERSION
