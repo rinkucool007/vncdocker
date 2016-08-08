@@ -1,6 +1,6 @@
 # This Dockerfile is used to build an sakuli image based on Ubuntu
 
-FROM ubuntu:15.04
+FROM ubuntu:14.04
 
 MAINTAINER Stevebeer "stefan@vdeweb.com"
 ENV REFRESHED_AT 2016-08-07
